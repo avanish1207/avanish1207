@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Fourth-year BTech student majoring in Computer Science at VIT Vellore, India<br>🌱 Actively learning and preparing to land a job as a Data Analyst<br>💼 Seeking opportunities to apply my skills in real-world scenarios<br>📫 How to reach me: gourahaavanish@gmail.com<br>💬 LinkedIn: www.linkedin.com/in/avanish-gouraha/
+🎓 Fourth-year BTech student majoring in Computer Science at VIT Vellore, India<br>🌱 Actively learning and preparing to land a job<br>💼 Seeking opportunities to apply my skills in real-world scenarios<br>📫 How to reach me: gourahaavanish@gmail.com<br>💬 LinkedIn: www.linkedin.com/in/avanish-gouraha/
 
 
 ## 🌐 Socials:
